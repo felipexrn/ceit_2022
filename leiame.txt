@@ -1,0 +1,1 @@
+A plataforma só pedia as funções e seus respetivos retornos. Infelizmente não tenho os casos de teste com entrada e saída.
